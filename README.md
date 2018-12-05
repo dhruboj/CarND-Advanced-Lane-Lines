@@ -65,7 +65,7 @@ The destination points for the transformation are listed below:
 
 By using `cv2.getPerspectiveTransform` a transformation matrix was calculated, and an inverse matrix is also calculated to map the points back to the original place. The result of the transformation on the test image is displayed below:
 
-![perspective image](./output_images/perspective_02.png)
+![perspective image](./output_images/perspective_demo.png)
 
 Below are the binary pictures after the persfective transform on all the test images:
 
